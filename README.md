@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/1so0hd0lks30rcuj?svg=true)](https://ci.appveyor.com/project/DurckinaMilana/classes-inheritance2)

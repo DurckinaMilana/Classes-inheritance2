@@ -18,7 +18,7 @@ test('number of characters in the name', () => {
 });
 
 test('level up', () => {
-  const bowman = new Bowman('Halk');
+  const bowman = new Bowman('Jho');
   const expected = {
     name: 'Jho',
     type: 'Bowman',
