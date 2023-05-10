@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1683757934877" clover="3.2.0">
+  <project timestamp="1683757934877" name="All files">
+    <metrics statements="36" coveredstatements="36" conditionals="16" coveredconditionals="16" methods="9" coveredmethods="9" elements="61" coveredelements="61" complexity="0" loc="36" ncloc="36" packages="1" files="7" classes="7"/>
+    <file name="app.js" path="C:\Users\milas\OneDrive\Рабочий стол\Учеба\ajs-50\Classes-inheritance2\src\js\app.js">
+      <metrics statements="18" coveredstatements="18" conditionals="10" coveredconditionals="10" methods="3" coveredmethods="3"/>
+      <line num="3" count="13" type="cond" truecount="4" falsecount="0"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="12" type="stmt"/>
+      <line num="8" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="12" count="11" type="stmt"/>
+      <line num="13" count="11" type="stmt"/>
+      <line num="14" count="11" type="stmt"/>
+      <line num="15" count="11" type="stmt"/>
+      <line num="19" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="30" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+    </file>
+    <file name="typeBowman.js" path="C:\Users\milas\OneDrive\Рабочий стол\Учеба\ajs-50\Classes-inheritance2\src\js\typeBowman.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="6" type="stmt"/>
+      <line num="6" count="5" type="stmt"/>
+      <line num="7" count="5" type="stmt"/>
+    </file>
+    <file name="typeDaemon.js" path="C:\Users\milas\OneDrive\Рабочий стол\Учеба\ajs-50\Classes-inheritance2\src\js\typeDaemon.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="typeMagician.js" path="C:\Users\milas\OneDrive\Рабочий стол\Учеба\ajs-50\Classes-inheritance2\src\js\typeMagician.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="typeSwordsman.js" path="C:\Users\milas\OneDrive\Рабочий стол\Учеба\ajs-50\Classes-inheritance2\src\js\typeSwordsman.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="typeUndead.js" path="C:\Users\milas\OneDrive\Рабочий стол\Учеба\ajs-50\Classes-inheritance2\src\js\typeUndead.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="typeZombie.js" path="C:\Users\milas\OneDrive\Рабочий стол\Учеба\ajs-50\Classes-inheritance2\src\js\typeZombie.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
